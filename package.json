@@ -37,7 +37,7 @@
     "sprity": "^1.0.7",
     "style-loader": "^0.12.3",
     "underscore": "^1.8.3",
-    "visual-sprite": "0.0.4",
+    "visual-sprite": "0.0.7",
     "webpack": "^1.12.1",
     "webpack-dev-middleware": "^1.2.0"
   },

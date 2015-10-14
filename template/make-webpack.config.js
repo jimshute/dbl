@@ -91,6 +91,12 @@ function makeConf(options) {
                 exclude: excludeFromStats,
                 colors: true
             }
+        },
+        visualSprite: {
+            port: 9000,
+            src: 'src/sprite',
+            cssDist: 'src/css',
+            imgDist: 'src/images'
         }
     };
     if(debug) {
